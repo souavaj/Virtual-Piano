@@ -1,7 +1,11 @@
-This project is to create an interactive virtual piano which wav file of music notes will need to be download in order for the play back music notes to work. 
+This project aims to create an interactive virtual piano. For the playback feature to work properly, users will need to download WAV files of music notes.
 
-It is for user to press the following keys to play a sound:
-black keys (18 keys) - f1, f2, f3, f4, f5, f6, f7, f8, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
-white keys (26 keys) - a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z
+To play a sound, users can press the following keys:
 
-Packages used are pygame and tkinter.
+**Black keys (18 keys):**  
+F1, F2, F3, F4, F5, F6, F7, F8, 1, 2, 3, 4, 5, 6, 7, 8, 9, 0
+
+**White keys (26 keys):**  
+A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y, Z
+
+The project utilizes the Pygame and Tkinter packages.
